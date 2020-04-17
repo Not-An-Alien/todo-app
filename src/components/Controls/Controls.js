@@ -39,6 +39,7 @@ class Controls extends Component {
 						</Card.Body>
 					</Card>
 				</Row>
+				<h2>Click a post to delete it</h2>
 			</Container>
 		);
 	}
