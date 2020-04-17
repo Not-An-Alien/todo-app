@@ -9,7 +9,7 @@ import {
 import { connect } from 'react-redux';
 import * as actionTypes from '../../store/action';
 import React, { Component } from 'react';
-
+//
 class Controls extends Component {
 	render() {
 		return (
